@@ -1,30 +1,9 @@
 [
-    {
-        "name": "kimbumsoo",
-        "number" : "01011121234"
-    },
-    {
-        "name": "kimbumsoo",
-        "number" : "01012341234"
-    },
-    {
-        "name": "kimbumsoo",
-        "number" : "01111111444"
-    },
-    {
-        "name": "naeul",
-        "number" : "0192224325"
-    },
-    {
-        "name": "parkhyosin",
-        "number" : "01023421234"
-    },
-    {
-        "name": "parkhyosin",
-        "number" : "0112351634"
-    },
-    {
-        "name": "isu",
-        "number" : "01203245677"
-    }
+    {"name": "kimbumsoo","number" : "01011121234"},
+    {"name": "kimbumsoo","number" : "01012341234"},
+    {"name": "kimbumsoo","number" : "01111111444"},
+    {"name": "naeul","number" : "0192224325"},
+    {"name": "parkhyosin","number" : "01023421234"},
+    {"name": "parkhyosin","number" : "0112351634"},
+    {"name": "isu","number" : "01203245677"}
 ]
